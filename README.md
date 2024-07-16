@@ -3,7 +3,7 @@
  Create an "images" folder inside your project's root directory (where your HTML file is located) and place the screenshots there.
 
 
-InfinityFree Hosting Landing page: http://adnanbayot.kesug.com/index.html
+InfinityFree Hosting Landing page: http://adnanbayot.kesug.com
 
 Github Landing page: https://nanfuji.github.io/ADET-Compilations/
 
